@@ -15,3 +15,11 @@ function setCoordinates(coord) {
 }
 setCoordinates([2, 3, 4]);
 setCoordinates([2, 34]);
+var countryList = {
+    list: [
+        ["India", 13578069, 0.67, 1.34],
+        ["Germany", 123456, 0.87, 1.45],
+        ["Italy", 986565, 0.77, 1.25],
+    ]
+};
+console.log(countryList);
