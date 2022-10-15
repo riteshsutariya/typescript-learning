@@ -1,5 +1,4 @@
 "use strict";
-exports.__esModule = true;
 var order = {
     orderId: 45,
     orderStatus: "Shipped",
