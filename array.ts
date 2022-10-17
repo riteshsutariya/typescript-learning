@@ -5,9 +5,7 @@ console.log("Group A: ", GroupA);
 console.log("Group B: ", GroupB);
 
 GroupA.push("West Indies");
-// GroupA.push('West Indies')
 GroupB.push("Sri Lanka");
-// GroupB.push('West Indies')
 
 console.log("Group A: ", GroupA);
 console.log("Group B: ", GroupB);
